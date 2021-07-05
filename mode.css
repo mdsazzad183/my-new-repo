@@ -1,0 +1,40 @@
+span{
+    color: fuchsia;
+}
+body{
+    font-family: 'Abril Fatface', cursive;
+    margin: 0;
+}
+h3{
+    color: mediumslateblue;
+}
+p{
+    font-style: normal;
+}
+.a{
+    display: flex;
+    margin-bottom: 150px;
+}
+.b{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+    
+}
+
+
+img{
+    height: 430px;
+    width: 450px;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(purple, fuchsia);
+    padding: 1%;
+    font-weight: 700;
+    border-radius: 10px;
+}
